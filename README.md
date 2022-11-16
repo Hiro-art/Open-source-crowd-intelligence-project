@@ -1,2 +1,13 @@
-# Open-source-crowd-intelligence-project
-西北工业大学 开源群智课程8组
+# 开源群智软件工程实践
+
+## 个人博客项目
+
+>Author: 西北工业大学 开源群智课程8组
+>
+>Date: 2022/11/16
+
+
+
+
+
+
