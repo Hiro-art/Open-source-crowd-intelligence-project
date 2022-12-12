@@ -14,6 +14,7 @@
 - /blog: 网站前台页面项目
 - /admin: 网站后台页面项目
 - /blog-springboot: 网站后端API项目
+- /extension_sensitive: 后端敏感词过滤扩展包
 - /doc: 参考资料文档
 
 <br />
