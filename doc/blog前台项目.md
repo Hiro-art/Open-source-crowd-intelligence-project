@@ -11,7 +11,7 @@
 ### 项目依赖
 
 ```
-dependencies: 生成依赖
+dependencies: 生产依赖
 	animate.css: css动画库
 	axios: ajax请求库
 	clipboard: 一键粘贴复制功能
@@ -40,9 +40,11 @@ devDependencies: 开发依赖
 	sass: css预处理器
 ```
 
+<br />
 
+<br />
 
-
+<br />
 
 ### 目录结构
 
