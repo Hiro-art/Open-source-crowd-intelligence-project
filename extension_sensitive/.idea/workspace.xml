@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sensitive-extension" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b069e849-cf15-4212-84be-85e012bf30ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\maven-repository" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2Iyuf2dMx7sEKmQsOaQIacnKXn4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.12243151" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b069e849-cf15-4212-84be-85e012bf30ce" name="Default Changelist" comment="" />
+      <created>1671166243233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671166243233</updated>
+      <workItem from="1671166250168" duration="11033000" />
+      <workItem from="1671177726263" duration="1547000" />
+      <workItem from="1671179460444" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="367" width="563" height="357" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1671170192652">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="717" y="367" width="563" height="357" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/78.0.1842.1080@78.0.1842.1080" timestamp="1671170192652" />
+    <state x="662" y="232" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1671179789151">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="662" y="232" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1671179789151" />
+    <state x="725" y="232" key="FileChooserDialogImpl" timestamp="1671181186747">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="725" y="232" key="FileChooserDialogImpl/78.0.1842.1080@78.0.1842.1080" timestamp="1671181186747" />
+    <state width="1788" height="334" key="GridCell.Tab.0.bottom" timestamp="1671181384241">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1788" height="334" key="GridCell.Tab.0.bottom/78.0.1842.1080@78.0.1842.1080" timestamp="1671181384241" />
+    <state width="1788" height="334" key="GridCell.Tab.0.center" timestamp="1671181384241">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1788" height="334" key="GridCell.Tab.0.center/78.0.1842.1080@78.0.1842.1080" timestamp="1671181384241" />
+    <state width="1788" height="334" key="GridCell.Tab.0.left" timestamp="1671181384241">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1788" height="334" key="GridCell.Tab.0.left/78.0.1842.1080@78.0.1842.1080" timestamp="1671181384241" />
+    <state width="1788" height="334" key="GridCell.Tab.0.right" timestamp="1671181384241">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1788" height="334" key="GridCell.Tab.0.right/78.0.1842.1080@78.0.1842.1080" timestamp="1671181384241" />
+    <state x="350" y="7" width="1393" height="1066" key="SettingsEditor" timestamp="1671181434953">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="350" y="7" width="1393" height="1066" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1671181434953" />
+  </component>
+</project>
